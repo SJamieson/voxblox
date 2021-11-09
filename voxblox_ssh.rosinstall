@@ -23,6 +23,9 @@
     local-name: protobuf_catkin
     uri: git@github.com:ethz-asl/protobuf_catkin.git
 - git:
+    local-name: catkin_boost_python_buildtool
+    uri: git@github.com:ethz-asl/catkin_boost_python_buildtool.git
+- git:
     local-name: voxblox
-    uri: git@github.com:ethz-asl/voxblox.git
+    uri: git@github.com:SJamieson/voxblox.git
 
